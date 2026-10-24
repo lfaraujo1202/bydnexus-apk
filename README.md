@@ -4,6 +4,8 @@ Launcher pessoal para o BYD Song. Este repositório guarda só o instalador, sem
 
 ## Baixar
 
+**Link curto:** **is.gd/bydnexus**
+
 **Versão mais recente:** https://github.com/lfaraujo1202/bydnexus-apk/releases/latest/download/BydNexus.apk
 
 Outras versões ficam em [Releases](https://github.com/lfaraujo1202/bydnexus-apk/releases).
